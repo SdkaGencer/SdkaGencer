@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there! I'm Sıdıka👋
 
-# Hello! My Name is Sıdıka Balım 👋
 
 ## About Me
 - 💻 I aim to build a career as a Software Developer.
