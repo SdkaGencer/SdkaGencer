@@ -14,7 +14,7 @@
 - React
 
 ## Contact Me
-- 📫 [My Email](mailto:sdkagencer1@gmail.com)
+- 📫 [Sıdıka Gencer](mailto:sdkagencer1@gmail.com)
 
 
 
