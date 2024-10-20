@@ -8,11 +8,10 @@
 - 🚀 I enjoy creating new products and the satisfaction of seeing them come to life.
 
 ## Technologies I'm Interested In
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) HTML
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) CSS
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg) JavaScript
-- ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React
-
+- HTML
+- CSS
+- JavaScript
+- React
 
 ## Contact Me
 - 📫 [Sıdıka Gencer](mailto:sdkagencer1@gmail.com)
