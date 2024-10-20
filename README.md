@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+# Hello! My Name is Sıdıka Balım 👋
+
+## About Me
+- 💻 I aim to build a career as a Software Developer.
+- 🌱 Currently learning React and focusing on Front-End Development.
+- 🎓 I have a degree in Psychology, but I'm currently working in the software industry.
+- 🚀 I enjoy creating new products and the satisfaction of seeing them come to life.
+
+## Technologies I'm Interested In
+- HTML
+- CSS
+- JavaScript
+- React
+
+
 <!--
 **SdkaGencer/SdkaGencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
