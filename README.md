@@ -4,7 +4,7 @@
 ## About Me
 - 💻 I aim to build a career as a Software Developer.
 - 🌱 Currently learning React and focusing on Front-End Development.
-- 🎓 I have a degree in Psychology, but I'm currently working in the software industry.
+- 🎓 I have a degree in Psychology but  currently work in the software industry.
 - 🚀 I enjoy creating new products and the satisfaction of seeing them come to life.
 
 ## Technologies I'm Interested In
@@ -12,6 +12,8 @@
 - CSS
 - JavaScript
 - React
+- Redux
+- Typescript
 
 ## Contact Me
 - 📫 [Sıdıka Gencer](mailto:sdkagencer1@gmail.com)
