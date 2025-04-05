@@ -10,10 +10,13 @@
 ## Technologies I'm Interested In
 - HTML
 - CSS
+- Bootstrap
+- Tailwind
 - JavaScript
 - React
 - Redux
 - Typescript
+- Figma
 
 ## Contact Me
 - 📫 [Sıdıka Gencer](mailto:sdkagencer1@gmail.com)
