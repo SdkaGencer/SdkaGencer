@@ -3,7 +3,7 @@
 
 ## About Me
 - 💻 I aim to build a career as a Software Developer.
-- 🌱 Currently learning React and focusing on Front-End Development.
+- 🌱 Currently focusing on Front-End Development.
 - 🎓 I have a degree in Psychology but  currently work in the software industry.
 - 🚀 I enjoy creating new products and the satisfaction of seeing them come to life.
 
