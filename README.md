@@ -14,7 +14,7 @@
 - Tailwind
 - JavaScript
 - React
-- Redux
+- Redux Toolkit
 - Typescript
 - Figma
 
