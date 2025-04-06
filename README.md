@@ -1,22 +1,19 @@
-## Hi there! I'm Sıdıka👋
 
 
-## About Me
-- 💻 I aim to build a career as a Software Developer.
-- 🌱 Currently focusing on Front-End Development.
-- 🎓 I have a degree in Psychology but  currently work in the software industry.
-- 🚀 I enjoy creating new products and the satisfaction of seeing them come to life.
 
-## Technologies I'm Interested In
-- HTML
-- CSS
-- Bootstrap
-- Tailwind
-- JavaScript
-- React
-- Redux Toolkit
-- Typescript
+# 👋 About Me
+I’m Sıdıka, a Front-End Developer passionate about creating user-friendly digital experiences.  
+After earning a degree in Psychology, I transitioned into the software industry, combining my understanding of human behavior with technology to build meaningful products.  
+I’m currently focusing on Front-End Development, and I find great satisfaction in bringing ideas to life through code.
+
+# 💻 Technologies & Tools
+- HTML, CSS (including Bootstrap and Tailwind)
+- JavaScript (ES6+), React, Redux Toolkit
+- TypeScript
 - Figma
+
+I'm constantly learning and expanding my skill set, aiming to deliver clean, efficient, and accessible web applications.
+
 
 ## Contact Me
 - 📫 [Sıdıka Gencer](mailto:sdkagencer1@gmail.com)
